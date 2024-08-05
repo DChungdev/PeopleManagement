@@ -1,0 +1,33 @@
+﻿@model IEnumerable<PersonManagement.Web.Models.PersonViewModel>
+
+@{
+    ViewData["Title"] = "Persons";
+}
+
+<h1>Persons</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>STT</th>
+            <th>Họ tên</th>
+            <th>Số điện thoại</th>
+            <th>Email</th>
+            <th>Vai trò</th>
+            <th>Địa chỉ</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var person in Model.Select((p, i) => new { Person = p, Index = i + 1 }))
+        {
+                <tr>
+                    <td>@person.Index</td>
+                    <td>@person.Person.Name</td>
+                    <td>@person.Person.PhoneNumber</td>
+                    <td>@person.Person.EmailAddress</td>
+                    <td>@person.Person.Role</td>
+                    <td>@person.Person.Address</td>
+                </tr>
+        }
+    </tbody>
+</table>

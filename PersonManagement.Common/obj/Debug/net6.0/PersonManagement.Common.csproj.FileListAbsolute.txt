@@ -1,0 +1,14 @@
+D:\ThucTap\Baitap\TrenLop\PersonManagement\PersonManagement.Common\bin\Debug\net6.0\PersonManagement.Common.deps.json
+D:\ThucTap\Baitap\TrenLop\PersonManagement\PersonManagement.Common\bin\Debug\net6.0\PersonManagement.Common.runtimeconfig.json
+D:\ThucTap\Baitap\TrenLop\PersonManagement\PersonManagement.Common\bin\Debug\net6.0\PersonManagement.Common.dll
+D:\ThucTap\Baitap\TrenLop\PersonManagement\PersonManagement.Common\bin\Debug\net6.0\PersonManagement.Common.pdb
+D:\ThucTap\Baitap\TrenLop\PersonManagement\PersonManagement.Common\obj\Debug\net6.0\PersonManagement.Common.csproj.AssemblyReference.cache
+D:\ThucTap\Baitap\TrenLop\PersonManagement\PersonManagement.Common\obj\Debug\net6.0\PersonManagement.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThucTap\Baitap\TrenLop\PersonManagement\PersonManagement.Common\obj\Debug\net6.0\PersonManagement.Common.AssemblyInfoInputs.cache
+D:\ThucTap\Baitap\TrenLop\PersonManagement\PersonManagement.Common\obj\Debug\net6.0\PersonManagement.Common.AssemblyInfo.cs
+D:\ThucTap\Baitap\TrenLop\PersonManagement\PersonManagement.Common\obj\Debug\net6.0\PersonManagement.Common.csproj.CoreCompileInputs.cache
+D:\ThucTap\Baitap\TrenLop\PersonManagement\PersonManagement.Common\obj\Debug\net6.0\PersonManagement.Common.dll
+D:\ThucTap\Baitap\TrenLop\PersonManagement\PersonManagement.Common\obj\Debug\net6.0\refint\PersonManagement.Common.dll
+D:\ThucTap\Baitap\TrenLop\PersonManagement\PersonManagement.Common\obj\Debug\net6.0\PersonManagement.Common.pdb
+D:\ThucTap\Baitap\TrenLop\PersonManagement\PersonManagement.Common\obj\Debug\net6.0\PersonManagement.Common.genruntimeconfig.cache
+D:\ThucTap\Baitap\TrenLop\PersonManagement\PersonManagement.Common\obj\Debug\net6.0\ref\PersonManagement.Common.dll
